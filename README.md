@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yawnle
-- 👀 I’m interested in ...
+- 👀 I’m interested in music, staying active and food.
 - 🌱 I’m currently learning Javascript.
-- 📫 How to reach me ...
+- 📫 How to reach me yawnle @ protonmail.com
 
 <!---
 yawnle/yawnle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
