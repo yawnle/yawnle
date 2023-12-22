@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yawnle
 - 👀 I’m interested in music, staying active and food.
-- 🌱 I’m currently learning Javascript.
 - 📫 Reach me yawnle @ protonmail.com
 
 <!---
